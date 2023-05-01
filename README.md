@@ -4,8 +4,6 @@ Gmail-clone is a React.JS. Features the best React.JS practices, UI/UX, Realtime
 
 This build also support auth using Google Auth.
 
-Live link ->
-
 https://clone-build-2.web.app
 
 ## Getting started locally
