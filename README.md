@@ -23,3 +23,7 @@ Open http://localhost:3000 with your browser to see the result.
 You can start editing the page by modifying `src/components/...`The page auto-updates as you edit the file.
 
 ## Issues
+
+Currently lacks mobile responsiveness. But works properly in Desktop browsers.
+
+In case of any issue reach me at velop.acc@gmail.com my dev email account.
